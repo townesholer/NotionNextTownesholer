@@ -4,7 +4,7 @@ const CONFIG = {
   HEXO_HOME_BANNER_GREETINGS: [
     'Hi，我是艺术爱好者',
     'Hi，我是教育从业者',
-    'Hi，我是Townesholer',
+    'Hi，我是人类先行者',
     '欢迎来到我的艺术空间🎉'
   ], // 首页大图标语文字
 
